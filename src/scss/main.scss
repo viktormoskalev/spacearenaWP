@@ -1,0 +1,14 @@
+body{
+  background-color: #000;
+}
+.customNoWpStyleFB {
+  color: white;
+}
+.customNoWpStyleFB {
+  @import 'components/base';
+@import 'components/grid';
+@import 'components/vse-vklucheno';
+@import 'components/card';
+}
+
+
